@@ -13,6 +13,10 @@ ul{
 ul li{
     list-style: none;
     display: inline;
-    margin-left: 100px;
-    
+    margin-left: 100px; 
+}
+img{
+    width:auto;
+    height: auto;
+
 }
