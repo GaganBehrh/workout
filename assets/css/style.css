@@ -1,3 +1,18 @@
 body{
     color:blueviolet;
 }
+h1{
+ color:orange;   
+}
+ul{
+    position: relative;
+    top: -50px;
+    left: 850px;
+  
+}
+ul li{
+    list-style: none;
+    display: inline;
+    margin-left: 100px;
+    
+}
