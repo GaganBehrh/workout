@@ -39,11 +39,71 @@ color:orange;
      border-radius:50%;
      display: block;
      margin: 0 auto;
-     width: 30%;
+     width: 40%;
      height: 700px;
 }
-.feeling-healthy h1 h2{
+.feeling-healthy h1  {
+    position: relative;
+    bottom:650px;
+    right: 1045px;
     color:black;
+    font-size: 50px;
     }
     
+    .feeling-healthy p {     
+    position: relative;
+    bottom: 663px;
+    right: -72px;
+    color:black;
+    font-size:41px;
+    }
+    .feeling-good h1  {
+        position: relative;
+        bottom:650px;
+        right: 1045px;
+        color:black;
+        font-size: 50px;
+        }
+        
+        .feeling-good p {     
+        position: relative;
+        bottom: 663px;
+        right: -72px;
+        color:black;
+        font-size:41px;
+        }
+
+        .feeling-strong h1  {
+            position: relative;
+            bottom:650px;
+            right: 1045px;
+            color:black;
+            font-size: 50px;
+            }
+            
+            .feeling-strong p {     
+            position: relative;
+            bottom: 663px;
+            right: -72px;
+            color:black;
+            font-size:41px;
+            }
+
+            .Get-social h1  {
+                position: relative;
+                bottom:1250px;
+                left: 1045px;
+                color:black;
+                font-size: 50px;
+                }
+                
+                .Get-social p {     
+                position: relative;
+                bottom: 1250px;
+                left: 2172px;
+                color:black;
+                font-size:41px;
+                }
+            
+        
 
